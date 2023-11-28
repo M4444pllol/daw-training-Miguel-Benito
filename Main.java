@@ -8,7 +8,7 @@ public class copiar {
         System.out.println("Hola mundo, necesito aclarar algo: \n"
         + "Maldito github cambio los terminos de uso de acceso a los tokens y mi gmail estaba puesto en pribado" + 
         "\n por lo cual dava igual cuantas veces pusiera mi maldito token nunca iva a funcionar! >:| ");
-		
+		//PD: No digo que github sea malo, solo digo que estarian bien mas avisos cuando agan cambios :,|		
 		teclado.close();
 	} 
 }
